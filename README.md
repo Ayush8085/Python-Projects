@@ -12,4 +12,4 @@ Some real world projects using Python.
 ## 3. GUI Book Store
 **It uses sqlite3 for backend database.**
 
-![alt text](https://github.com/[Ayush8085]/[Python-Projects]/Book%20Store/[master]/Screenshot.png?raw=true)
+![](https://github.com/[Ayush8085]/[Python-Projects]/Book%20Store/[master]/Screenshot.png?raw=true)
