@@ -16,3 +16,6 @@ Some real world projects using Python.
 
 ## 4. Hangman Game
 **A simple hangman game that can be playes in terminal.**
+
+## 5. Sudoku Solver
+**It uses the concept of recursion and backtracking.**
