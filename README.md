@@ -13,3 +13,6 @@ Some real world projects using Python.
 **It uses sqlite3 for backend database.**
 
 ![](Book%20Store/Screenshot.png)
+
+## 4. Hangman Game
+**A simple hangman game that can be playes in terminal.**
