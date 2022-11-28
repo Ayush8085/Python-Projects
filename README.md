@@ -19,3 +19,4 @@ Some real world projects using Python.
 
 ## 5. Sudoku Solver
 **It uses the concept of recursion and backtracking.**
+![](Sudoku%20Solver/Screenshot.png)
