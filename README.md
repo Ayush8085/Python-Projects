@@ -30,4 +30,3 @@ Some real world projects using Python.
 **A GUI based calculator build using tkinter.**
 
 <img src="Simple%20Calculator/Screenshot.png" width="420">
-<!-- ![](Simple%20Calculator/Screenshot.png) -->
