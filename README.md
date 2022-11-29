@@ -5,6 +5,8 @@ Some real world projects using Python.
 ## 1. Interactive Dictonary
 **Just type the word and the program will give you the meaning from the dictonary.**
 
+![](Interactive%20Dictonary/Screenshot.png)
+
 ## 2. Website Blocker
 **This program can be used for blocking websites for some time period**.
 **It can be scheduled in the Task Schedular of your system and used in real**.
@@ -16,6 +18,8 @@ Some real world projects using Python.
 
 ## 4. Hangman Game
 **A simple hangman game that can be playes in terminal.**
+
+![](Hangman/Screenshot.png)
 
 ## 5. Sudoku Solver
 **It uses the concept of recursion and backtracking.**
