@@ -29,4 +29,5 @@ Some real world projects using Python.
 ## 6. Simple Calculator
 **A GUI based calculator build using tkinter.**
 
-![](Simple%20Calculator/Screenshot.png)
+<img src="Simple%20Calculator/Screenshot.png" width="420">
+<!-- ![](Simple%20Calculator/Screenshot.png) -->
