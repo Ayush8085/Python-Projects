@@ -46,6 +46,7 @@ def update_command():
 # ----------------------WINDOW---------------------
 
 window = Tk()
+window.iconphoto(False, PhotoImage(file='icon.png'))
 window.wm_title("Book Store")   # Title of the window
 
 # --------------------LABELS--------------------
