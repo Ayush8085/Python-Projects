@@ -11,7 +11,7 @@ Some real world projects using Python.
 **This program can be used for blocking websites for some time period**.
 **It can be scheduled in the Task Schedular of your system and used in real**.
 
-## 3. GUI Book Store
+## 3. Book Store
 **It uses sqlite3 for backend database.**
 
 ![](Book%20Store/Screenshot.png)
@@ -29,4 +29,4 @@ Some real world projects using Python.
 ## 6. Simple Calculator
 **A GUI based calculator build using tkinter.**
 
-<img src="Simple%20Calculator/Screenshot.png" width="420">
+<img src="Simple%20Calculator/Screenshot.png" width="320">
