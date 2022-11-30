@@ -30,3 +30,10 @@ Some real world projects using Python.
 **A GUI based calculator build using tkinter.**
 
 <img src="Simple%20Calculator/Screenshot.png" width="320">
+
+## 7. Text Editor
+**A GUI based text editor build using tkinter.**
+**It can perform basic functionalities like opening, creating or saving a file.**
+**You can also change color of the font.**
+
+<img src="Text%20Editor/Screenshot_filemenu.png" width="500">         <img src="Text%20Editor/Screenshot_editmenu.png" width="500">
