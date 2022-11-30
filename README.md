@@ -25,3 +25,8 @@ Some real world projects using Python.
 **It uses the concept of recursion and backtracking.**
 
 ![](Sudoku%20Solver/Screenshot.png)
+
+## 6. Simple Calculator
+**A GUI based calculator build using tkinter.**
+
+<img src="Simple%20Calculator/Screenshot.png" width="420">
