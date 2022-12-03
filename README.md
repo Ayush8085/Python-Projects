@@ -37,3 +37,8 @@ Some real world projects using Python.
 **You can also change color of the font.**
 
 <img src="Text%20Editor/Screenshot_filemenu.png" width="500">         <img src="Text%20Editor/Screenshot_editmenu.png" width="500">
+
+## 8. Tic Tac Toe
+**A GUI based tic tac toe game build using tkinter.**
+
+<img src="Tic%20Tac%20Toe/Screenshot_win.png" width="420">          <img src="Tic%20Tac%20Toe/Screenshot_tie.png" width="420">
