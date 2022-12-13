@@ -41,4 +41,4 @@ Some real world projects using Python.
 ## 8. Tic Tac Toe
 **A GUI based tic tac toe game build using tkinter.**
 
-<img src="Tic%20Tac%20Toe/Screenshot_win.png" width="420">          <img src="Tic%20Tac%20Toe/Screenshot_tie.png" width="420">
+<img src="Tic%20Tac%20Toe/Screenshot_win.png" width="420">    <img src="Tic%20Tac%20Toe/Screenshot_tie.png" width="420">
